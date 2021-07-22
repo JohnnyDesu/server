@@ -5,7 +5,7 @@
 ## 证书
 
 ### ca
-
+<ca>
 -----BEGIN CERTIFICATE-----
 MIIB9zCCAXygAwIBAgIURsCdg6MwNSp/UUXPQkTtiFCZUJ8wCgYIKoZIzj0EAwQw
 FDESMBAGA1UEAwwJR2FsYXh5VlBOMB4XDTIwMDkxNzE1NTUzM1oXDTMwMDkxNTE1
@@ -19,9 +19,9 @@ AwIBBjAKBggqhkjOPQQDBANpADBmAjEA92auF20PbQ3IgKxtAL8VVHsrhlqDJIra
 Zlx56K7olyOBEZpaw/EFa20/I1/qz++zAjEA6sF+LRx8g08qlx4p45U1IqJ/6Qhm
 rS8j+ioxK8KFl/W4SOmXZ/FGAjZ0nKeR2w6+
 -----END CERTIFICATE-----
-
+</ca>
 ### ta
-
+<tls-auth>
 -----BEGIN OpenVPN Static key V1-----
 8c154fa8c440d08f69b052351e7d2ebf
 88bfb57defa7914f7c55327d6ba8a224
@@ -40,7 +40,7 @@ a57ba5818f06220dc9e5e360464bccc2
 c614cc4e9a3eff3263ae466d8a458b40
 d3dbc0aae563221de6a35731877d15d9
 -----END OpenVPN Static key V1-----
-
+</tls-auth>
 ## 配置
 
 ```
