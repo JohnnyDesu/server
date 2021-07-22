@@ -17,5 +17,7 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Chongqing","country":"China","image":"germany","ip":"219.151.143.104","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Chongqing","country":"China","image":"unitedstates","ip":"219.151.143.101","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Chongqing","country":"China","image":"germany","ip":"219.151.143.102","active":"true","signal":"a"}
   ]
 }
